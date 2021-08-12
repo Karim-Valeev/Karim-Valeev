@@ -12,7 +12,10 @@
 
 [comment]: <> (- ⚡ Fun fact: I love to draw and play guitar / drums)
 
+<br>
+
 ----
+
 
 ### Connect with me:
 [telegram]: https://t.me/wakai_kami
@@ -21,7 +24,8 @@
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
-</br>
+<br>
+
 ----
 
 ### Languages and Tools:
@@ -48,3 +52,8 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][me]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][me]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][me]
+</br>
+
+----
+
+![Karim GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karim-Valeev&show_icons=true)
