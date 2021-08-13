@@ -6,13 +6,7 @@
 - 🌱 I’m currently learning Django and React
 - 🥅 2021 Goals: To become a full stack developer
 
-[comment]: <> (- 👯 I’m looking to collaborate with other content creators)
-[comment]: <> (- ⚡ Fun fact: I love to make photos)
-
-<br>
-
 ----
-
 
 ### Connect with me:
 [telegram]: https://t.me/wakai_kami
