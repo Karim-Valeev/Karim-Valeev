@@ -2,15 +2,12 @@
 
 ## I'm a Student, Developer, and Photographer!
 
-
-[comment]: <> (- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!)
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I successfully completed the second year of university!
+- 🌱 I’m currently learning Django and React
+- 🥅 2021 Goals: To become a full stack developer
 
 [comment]: <> (- 👯 I’m looking to collaborate with other content creators)
-
-[comment]: <> (- 🥅 2020 Goals: Contribute more to Open Source projects)
-
-[comment]: <> (- ⚡ Fun fact: I love to draw and play guitar / drums)
+[comment]: <> (- ⚡ Fun fact: I love to make photos)
 
 <br>
 
