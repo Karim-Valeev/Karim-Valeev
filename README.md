@@ -58,4 +58,4 @@
 
 ----
 
-![Karim GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karim-Valeev&show_icons=true)
+![Karim GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karim-Valeev&show_icons=true&hide_border=true&?count_private=true)
