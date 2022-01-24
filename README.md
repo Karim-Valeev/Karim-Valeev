@@ -4,7 +4,7 @@
 
 - 🔭 I successfully completed the second year of university!
 - 🌱 I’m currently learning Django and React
-- 🥅 2021 Goals: To become a full stack developer
+- 🥅 2022 Goals: To become a full stack developer
 
 ----
 
