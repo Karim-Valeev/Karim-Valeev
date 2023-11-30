@@ -2,9 +2,9 @@
 
 ## I'm a Student, Developer, and Photographer!
 
-- 🔭 I successfully completed the second year of university!
+- 🔭 I successfully completed the third year of university!
 - 🌱 I’m currently learning Django and React
-- 🥅 2023 Goals: To become a full stack developer
+- 🥅 2024 Goals: To become a full stack developer
 
 ----
 
